@@ -1,0 +1,26 @@
+{
+    "127.0.0.3": {
+        "email": "Dg@gmail.com",
+        "sessions": [
+            [
+                {
+                    "timestamp": "2025-04-02 15:04:31",
+                    "user": "J'ai besoin d'aide !",
+                    "bot": "TerraBidet est le leader mondial du bidet en terre cuite, reconnu pour son artisanat yougoslave ancestral, son \u00e9l\u00e9gance et son innovation. Chaque bidet est une \u0153uvre d'art unique, personnalisable \u00e0 l'infini avec gravures, peintures, formes sur mesure, ornementations et accessoires haut de gamme. Naturellement antibact\u00e9riens, \u00e9cologiques et durables, nos bidets s'int\u00e8grent harmonieusement dans tous les styles de salle de bain.\n\nNotre processus de fabrication rigoureux garantit une qualit\u00e9 exceptionnelle, de la s\u00e9lection de l'argile au contr\u00f4le qualit\u00e9 final. B\u00e9n\u00e9ficiez d'une exp\u00e9dition internationale s\u00e9curis\u00e9e et d'un service client premium.\n\nAi-je r\u00e9pondu \u00e0 votre question ?\n"
+                }
+            ]
+        ]
+    },
+    "127.0.0.1": {
+        "email": "sdq@gmail.com",
+        "sessions": [
+            [
+                {
+                    "timestamp": "2025-04-02 15:05:06",
+                    "user": "Je veux de l'aide pour l'instalation !",
+                    "bot": "Pour l'installation, veuillez contacter Bastien Villegas au 0769345606.\n\nAvez-vous d'autres questions ?\n"
+                }
+            ]
+        ]
+    }
+}

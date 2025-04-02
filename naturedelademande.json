@@ -1,0 +1,16 @@
+[
+    {
+        "ip": "127.0.0.3",
+        "email": "Dg@gmail.com",
+        "date": "2025-04-02 15:04:31",
+        "nature": "Non catégorisée",
+        "résumé": "L'utilisateur demande de l'aide, et l'assistant répond par une description détaillée et promotionnelle de TerraBidet, un fabricant de bidets en terre cuite, demandant ensuite si sa réponse est pertinente."
+    },
+    {
+        "ip": "127.0.0.1",
+        "email": "sdq@gmail.com",
+        "date": "2025-04-02 15:05:06",
+        "nature": "Demande d'installation",
+        "résumé": "L'utilisateur a demandé de l'aide pour l'installation et l'assistant lui a fourni les coordonnées de contact de Bastien Villegas."
+    }
+]
