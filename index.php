@@ -6,7 +6,7 @@ ini_set('display_errors', 1);
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     header('Content-Type: application/json');
 
-    $apiKey = 'AIzaSyA9KFv_T1diUIAtxh4xqDOmmqQkpcmjMIo';
+    $apiKey = '';
     $apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$apiKey";
 
     $promptFile = __DIR__ . '/prompt.txt';
